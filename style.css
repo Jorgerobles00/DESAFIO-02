@@ -1,0 +1,39 @@
+h1{
+  color: red;
+  font-size: 50px;
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center;
+}
+
+h2 {
+  color: green;
+  font-size: 30px;
+  font-family:Arial, Helvetica, sans-serif ;
+  text-align:justify;
+}
+
+h3{
+  color: blue;
+  font-size: 25px;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.color-cadetblue{
+  color: cadetblue;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.color-indigo{
+  color:indigo;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.color-goldenrod{
+  color: goldenrod;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.color-mediumspringgreen{
+  color: mediumspringgreen;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
